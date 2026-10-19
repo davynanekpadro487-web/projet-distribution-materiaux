@@ -34,7 +34,8 @@
 
 ## 📋 Cadrage
 
-- [x] [Cahier des charges](cadrage/Cahier_des_charges_Aykan.docx) — exigences fonctionnelles, non fonctionnelles, règles de gestion, contraintes, planning
+- [x] [Cahier des charges (PDF)](cadrage/Cahier_des_charges_Aykan.pdf) — exigences fonctionnelles, non fonctionnelles, règles de gestion, contraintes, planning
+  - Version modifiable : [Cahier des charges (Word)](cadrage/Cahier_des_charges_Aykan.docx)
 
 ## 📐 Modélisation
 
